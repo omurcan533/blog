@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\javascript",
+    "\\app\\javascript\\channels",
+    "\\app\\jobs",
+    "\\app\\models"
+  ],
+  "SelectedNode": "\\app\\javascript\\channels\\consumer.js",
+  "PreviewInSolutionExplorer": false
+}
