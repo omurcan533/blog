@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\javascript",
     "\\app\\javascript\\channels",
-    "\\app\\jobs",
-    "\\app\\models"
+    "\\app\\views",
+    "\\config"
   ],
   "SelectedNode": "\\Gemfile",
   "PreviewInSolutionExplorer": false
